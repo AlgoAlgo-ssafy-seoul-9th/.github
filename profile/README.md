@@ -5,7 +5,7 @@
 
 <table style="text-align:center;">
 <tr>
-<th style="text-align:center;"><a href="https://github.com/pyjune">박용준 교수님</a></th>
+<th style="text-align:center;"><a href="https://github.com/pyjune">박영준 교수님</a></th>
 <th style="text-align:center;"><a href="https://github.com/MinWoongL">이민웅</a></th>
 <th style="text-align:center;"><a href="https://github.com/sangmihwang">황상미</a></th>
 <th style="text-align:center;"><a href="https://github.com/bbangkku">임병국</a></th>
@@ -30,9 +30,9 @@
 
 
 
-## [18주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/18th_study)
-## [17주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/17th_study)
-## [16주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/16th_study)
+## [18주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/18th_study)
+## [17주차(MST)](https://github.com/AlgoAlgo-ssafy-seoul-9th/17th_study)
+## [16주차(분할정복)](https://github.com/AlgoAlgo-ssafy-seoul-9th/16th_study)
 ## [15주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/15th_study)
 ## [14주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/14th_study)
 ## [13주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/13th_Study)
