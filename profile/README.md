@@ -5,7 +5,7 @@
 
 <table style="text-align:center;">
 <tr>
-<th style="text-align:center;"><a href="https://github.com/pyjune">박영준 교수님</a></th>
+<th style="text-align:center;"><a href="https://github.com/pyjune">박영준 <br/>교수님</a></th>
 <th style="text-align:center;"><a href="https://github.com/MinWoongL">이민웅</a></th>
 <th style="text-align:center;"><a href="https://github.com/sangmihwang">황상미</a></th>
 <th style="text-align:center;"><a href="https://github.com/bbangkku">임병국</a></th>
@@ -48,15 +48,6 @@
 ## [3주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/3rd_Study)
 ## [2주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/2nd_study)
 ## [1주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/1st_study)
-
-### 알고리즘
-- 17266: 구현, 이분탐색
-- 20922: 두 포인터
-- 2179: 자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵
-
-### 문제집
-- [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&partIds=21366)
-- [백준](https://www.acmicpc.net/workbook/view/16346)
 
 
 </details>
