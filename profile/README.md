@@ -31,7 +31,7 @@
 
 ## [20주차(스택)](https://github.com/AlgoAlgo-ssafy-seoul-9th/20th_study)
 
-## [19주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/19th_study)
+## [19주차(상호배타집합)](https://github.com/AlgoAlgo-ssafy-seoul-9th/19th_study)
 
 ## [18주차(백트래킹)](https://github.com/AlgoAlgo-ssafy-seoul-9th/18th_study)
 
