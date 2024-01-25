@@ -1,4 +1,5 @@
 # 코요태와 함께하는 알고리즘 스터디
+
 - 매주 수요일 오후 1시~ 오후 5시 오프라인 알고리즘 스터디
 
 # Member
@@ -23,32 +24,49 @@
 </tr>
 </table>
 
-
 # 주차별 알고리즘 스터디
+
 <details markdwon="1">
 <summary>접기/펼치기</summary>
 
-
+## [20주차(스택)](https://github.com/AlgoAlgo-ssafy-seoul-9th/20th_study)
 
 ## [19주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/19th_study)
-## [18주차(백트래킹)](https://github.com/AlgoAlgo-ssafy-seoul-9th/18th_study)
-## [17주차(MST)](https://github.com/AlgoAlgo-ssafy-seoul-9th/17th_study)
-## [16주차(분할정복)](https://github.com/AlgoAlgo-ssafy-seoul-9th/16th_study)
-## [15주차(DP)](https://github.com/AlgoAlgo-ssafy-seoul-9th/15th_study)
-## [14주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/14th_study)
-## [13주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/13th_Study)
-## [12주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/12th_study)
-## [11주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/11th_study)
-## [10주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/10th_study)
-## [9주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/9th_study)
-## [8주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/8th_study)
-## [7주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/7th_study)
-## [6주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/6th_study)
-## [5주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/5th_study)
-## [4주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/4th_study)
-## [3주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/3rd_Study)
-## [2주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/2nd_study)
-## [1주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/1st_study)
 
+## [18주차(백트래킹)](https://github.com/AlgoAlgo-ssafy-seoul-9th/18th_study)
+
+## [17주차(MST)](https://github.com/AlgoAlgo-ssafy-seoul-9th/17th_study)
+
+## [16주차(분할정복)](https://github.com/AlgoAlgo-ssafy-seoul-9th/16th_study)
+
+## [15주차(DP)](https://github.com/AlgoAlgo-ssafy-seoul-9th/15th_study)
+
+## [14주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/14th_study)
+
+## [13주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/13th_Study)
+
+## [12주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/12th_study)
+
+## [11주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/11th_study)
+
+## [10주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/10th_study)
+
+## [9주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/9th_study)
+
+## [8주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/8th_study)
+
+## [7주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/7th_study)
+
+## [6주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/6th_study)
+
+## [5주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/5th_study)
+
+## [4주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/4th_study)
+
+## [3주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/3rd_Study)
+
+## [2주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/2nd_study)
+
+## [1주차](https://github.com/AlgoAlgo-ssafy-seoul-9th/1st_study)
 
 </details>
