@@ -29,6 +29,8 @@
 <details markdwon="1">
 <summary>접기/펼치기</summary>
 
+## [25주차(DP)](https://github.com/AlgoAlgo-ssafy-seoul-9th/25th_study)
+
 ## [24주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/24th_study)
 
 ## [23주차(병국취업축하)](https://github.com/AlgoAlgo-ssafy-seoul-9th/23th_study)
