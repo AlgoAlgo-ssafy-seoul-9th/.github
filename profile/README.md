@@ -29,6 +29,8 @@
 <details markdwon="1">
 <summary>접기/펼치기</summary>
 
+## [28주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/28th_study)
+
 ## [27주차(세그먼트 트리)](https://github.com/AlgoAlgo-ssafy-seoul-9th/27th_study)
 
 ## [26주차(우선순위 Queue, 구현)](https://github.com/AlgoAlgo-ssafy-seoul-9th/26th_study)
