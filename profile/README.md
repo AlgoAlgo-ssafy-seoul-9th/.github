@@ -29,7 +29,10 @@
 <details markdwon="1">
 <summary>접기/펼치기</summary>
 
-## [28주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/28th_study)
+## [29주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/29th_study)
+
+
+## [28주차(그리디)](https://github.com/AlgoAlgo-ssafy-seoul-9th/28th_study)
 
 ## [27주차(세그먼트 트리)](https://github.com/AlgoAlgo-ssafy-seoul-9th/27th_study)
 
