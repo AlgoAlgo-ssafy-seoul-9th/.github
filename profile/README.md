@@ -29,8 +29,9 @@
 <details markdwon="1">
 <summary>접기/펼치기</summary>
 
-## [29주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/29th_study)
+## [30주차()](https://github.com/AlgoAlgo-ssafy-seoul-9th/30th_study)
 
+## [29주차(누적합)](https://github.com/AlgoAlgo-ssafy-seoul-9th/29th_study)
 
 ## [28주차(그리디)](https://github.com/AlgoAlgo-ssafy-seoul-9th/28th_study)
 
