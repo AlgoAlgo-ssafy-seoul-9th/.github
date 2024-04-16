@@ -29,6 +29,8 @@
 <details markdwon="1">
 <summary>접기/펼치기</summary>
 
+## [31주차(코테대비)](https://github.com/AlgoAlgo-ssafy-seoul-9th/31th_study)
+
 ## [30주차(스위핑)](https://github.com/AlgoAlgo-ssafy-seoul-9th/30th_study)
 
 ## [29주차(누적합)](https://github.com/AlgoAlgo-ssafy-seoul-9th/29th_study)
