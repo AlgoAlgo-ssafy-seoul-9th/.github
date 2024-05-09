@@ -28,6 +28,8 @@
 
 <details markdwon="1">
 <summary>접기/펼치기</summary>
+    
+## [34주차(코테대비)](https://github.com/AlgoAlgo-ssafy-seoul-9th/34th_study)
 
 ## [34주차(코테대비)](https://github.com/AlgoAlgo-ssafy-seoul-9th/34th_study)
 
